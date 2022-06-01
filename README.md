@@ -1,1 +1,1 @@
-# LInear-Regression-car-price-Prediction-
+# Linear-Regression-car-price-Prediction-
